@@ -11,8 +11,10 @@ public class SampleJava {
 		a = Sc.nextInt();
 		b = Sc.nextInt();
 		c = a+b;
+		
+		System.out.print("your answer is: ");	
 		System.out.println(c);
-        System.out.println("that is your answer");	
+        
 		
 	}
 
