@@ -5,7 +5,7 @@ public class Student {
 	private String Name;
 	private int Age; 
 	
-	public Student(int ID, String Name, int Age) {
+	public Student() {
 		this.ID = ID;
 		this.Name = Name;
 		this.Age = Age;
