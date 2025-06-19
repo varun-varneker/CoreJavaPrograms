@@ -1,5 +1,5 @@
 //Program to demonstrate simple class in Java
-package day3;
+package day3.Encapsulation;
 
 public class OopsConceptDemo {
 	private int serialNum;

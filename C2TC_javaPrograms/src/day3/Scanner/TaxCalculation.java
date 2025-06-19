@@ -1,4 +1,4 @@
-package day3;
+package day3.Scanner;
 
 public class TaxCalculation {
 	// function to calculate tax
