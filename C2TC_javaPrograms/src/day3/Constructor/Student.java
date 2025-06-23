@@ -31,7 +31,7 @@ public class Student {
 	}
 	@Override
 	public String toString() {
-		return "Student [Age=" + Age + ", Name=" + Name + ", ID=" + ID + "]";
+		return "SFAStudent [Age=" + Age + ", Name=" + Name + ", ID=" + ID + "]";
 	}
 
 }
