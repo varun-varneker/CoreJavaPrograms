@@ -24,7 +24,7 @@ public class StringComparision {
 		System.out.println(s4.hashCode());
 
 		//compareTo 
-		System.out.println(s1.compareTo("tnsif"));
+		System.out.println(s1.compareTo("tnsif"));	
 		System.out.println(s1.compareToIgnoreCase("tnsif"));
 		System.out.println(s1.compareTo(s2));
 	}
